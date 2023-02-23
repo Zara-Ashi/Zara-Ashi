@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </a>
     </div>
       <div id="head" align="center"> <img src="https://komarev.com/ghpvc/?username=Zara-Ashi&style=flat-square&color=blue" alt=""></div>
-       <div id="h" align="center"> <h1>Hi <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100px"/></h1></div>
+       <div id="h" align="center"> <h1>Hi <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="200px"/></h1></div>
        <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/> </div>
   
