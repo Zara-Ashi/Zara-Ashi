@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/ZRiLoLix9pnW7cVB5y/giphy.gif" width="100"/></div>
 <div id="badges"align="center">
-  <a href="(https://www.instagram.com/ashrapova.zarina/)">
+  <a href="https://www.instagram.com/ashrapova.zarina/">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="(https://www.facebook.com/zarrina.j/)">
