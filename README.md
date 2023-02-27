@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/ashrapova.zarina/">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="(https://www.facebook.com/zarrina.j/)">
+  <a href="https://www.facebook.com/zarrina.j/">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
     </div>
